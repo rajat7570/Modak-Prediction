@@ -1,4 +1,5 @@
-# Modak-Recognisation :- 
+# Modak-Recognisation :-
+Coded in Google Colab plateform.
 Steps and Approch:-
 1) Collection of modak image data and other sweet data from google images.
 2) Image Processing- Training image converted into 100*100 size and greyscale format.
